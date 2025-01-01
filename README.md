@@ -1,1 +1,1 @@
-#music-academy
+Music Academy
